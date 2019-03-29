@@ -43,8 +43,10 @@ namespace SNHUber_Eats
         }
         private void launchMainpage()
         {
-            Console.WriteLine("Success");
+            SNHUber_Eats_Dining_Menu.Form1 form1 = new SNHUber_Eats_Dining_Menu.Form1();
             this.Hide();
+            Console.WriteLine("Success");
+            form1.ShowDialog();
                         
         }
 
