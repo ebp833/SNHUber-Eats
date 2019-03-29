@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNHUber_Eats", "SNHUber_Eats\SNHUber_Eats.csproj", "{C7AB4C60-F2E9-4914-8411-A8EC918648FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AB4C60-F2E9-4914-8411-A8EC918648FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AB4C60-F2E9-4914-8411-A8EC918648FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AB4C60-F2E9-4914-8411-A8EC918648FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AB4C60-F2E9-4914-8411-A8EC918648FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F9F39F-1840-49BE-B6B4-FA46171055F8}
+	EndGlobalSection
+EndGlobal
